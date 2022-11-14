@@ -12,5 +12,5 @@
 <br />
 
 <p align="center">
-  <img src="https://github.com/ozzs/bank-heist/blob/main/media/Sequence%2006_1.gif" width="500" />  
+  <img src="https://github.com/ozzs/bank-heist/blob/main/media/Sequence%2006_1.gif" width=500 />
 </p>
