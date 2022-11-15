@@ -19,27 +19,14 @@
   <img src="https://github.com/ozzs/bank-heist/blob/main/media/Sequence%2006_1.gif" width=500 />
 </p>
 
-## Table of Content
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Tech](#tech)
-- [Installation](#installation)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Usage](#usage)
-  - [Create Playlist](#create-playlist)
-  - [Add Songs To Playlist](#add-songs-to-playlist)
-  - [Remove Songs From Playlist](#remove-songs-from-playlist)
-  - [Delete Playlist](#delete-playlist)
-  - [The Songs Carousel](#the-songs-carousel)
-  - [The Current Song Tab](#the-current-song-tab)
-  - [Toggle Themes](#toggle-themes)
-- [Support](#support)
-- [Project Resources](#project-resources)
-
 ## Features
 * Animations
 * Post-Processing
 * Dynamic Emission
 * Particle System
-* Menus UI: Main, Death & Pause
+* Menus UI: Main, Win, Death & Pause
+
+## Hotkeys
+* **W, A, S, D** - Movement
+* **Spacebar** - Jump
+* **Left Mouse** - Shoot
