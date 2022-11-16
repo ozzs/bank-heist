@@ -45,9 +45,12 @@ Each stack of bills is worth $100 💵
 ## Features
 * 3D Models & Animations
 * Post-Processing
-* Dynamic Emission
 * Particle System
 * Raycast / Spherecast
+* AI & NavMesh
+* Team Selection
+* Kill Count & Broadcast
+* Team Based Objectives
 * Menus UI: Main, Win, Death & Pause
 * Free to Play
 
